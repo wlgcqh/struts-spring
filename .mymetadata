@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="struts-spring"
+  id="myeclipse.1419586206384"
+  context-root="/struts-spring"
+  j2ee-spec="5.0"
+  archive="struts-spring.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
